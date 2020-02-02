@@ -1,0 +1,19 @@
+Welcome back!
+Today we are going to learn about conditionals, in python there is only one conditional which is if.
+An If statement checks if a variable is equal to a value.
+To create an if statement in python you use the following command:
+if 5 == 5:
+    <code here runs if result of the if is true>
+The example above will always run because 5 is equal to 5. However the first 5 can be changed with anything but variables are more commonly used. For example:
+n = 5
+if n == 5:
+    print(‘numbers match!’)
+You can also use or comparisons such as; less than, which uses <; less than or , which uses <=; greater than, which uses >; greater than or equal to, which uses >=.
+In the examples shown the result of the if was false nothing would happen, this is where else if comes in.
+An else if is a second if that runs after the if statement above returns false, to do an else if in python you use the command elif:
+n = 5
+if n == 10:
+  print ('number is 10')
+elif n == 5:
+  print ('number is 5')
+There is also an else statement which is where there is no condition just else, this option only runs when no other condition is met.   

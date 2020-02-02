@@ -1,0 +1,36 @@
+Welcome back!
+
+Today we will be covering function.
+This is quite an advanced subject, so i will try to keep it simple.
+
+A function is container of code that can be run at any time.
+You can see an example of this in the pre-generated code.
+
+Using the def command you can create a function:
+
+def square(length):
+    for i in range(4):
+        t.forward(length)
+        t.right(90)
+
+Lets break down the example.
+
+def, use this so the system knows your making a function.
+square, square is the name of the function.
+(length), this is a name of a parameter that has been passed to the function.
+
+to call the function above use the following command:
+
+square(50)
+
+If you are using a different name for the function you call it by:
+
+<name of function>(<parameter>, <parameter>, <parameter>)
+
+A parameter is a value or string that can be given to the function, this is useful when a function uses user input.
+The parameter must be defined in the function.
+In python there is system parameters but we wont be needing them, so we will ignore them.
+A function can have as many parameters as you want.
+
+There is plenty of stuff to play about with when using functions, so dont be shy! 
+  

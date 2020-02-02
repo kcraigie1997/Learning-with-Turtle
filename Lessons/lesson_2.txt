@@ -1,0 +1,16 @@
+Welcome back!
+Now we are going to look at making me move. To make me move we have to use the commands:
+t.forward(10) – This will move me forward 10 spaces
+t.back(10) – This will move me backward 10 spaces
+t.left(10) – This will turn me left 10 spaces
+t.right(10) – This will turn me right 10 spaces
+Remember to put the ‘t.’ before the command. Otherwise I will not know you are telling me to move!
+There number 10 can be changed with any number. This will make me move further!
+Now to make the commands work, first we have to click at the end of the t = turtle.RawTurtle(res).
+Then press enter to take a new line and press space 4 times. We need to do this because it is in a class.
+After that you can enter t.forward(50). 
+Click Save and then GO! And I should appear and move forward.
+Once you see that feel free to try the other commands. Try getting me to draw a shape!
+
+
+

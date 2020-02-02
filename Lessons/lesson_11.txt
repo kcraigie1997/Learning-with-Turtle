@@ -1,0 +1,9 @@
+Welcome Back!
+
+Its time for the final challenge.
+
+I want you to make me draw, a shape(you choose) that repeats itself 15 times changing colour with each drawing.
+
+For this we will need to use everything we have seen; ifs, loops and functions.
+
+It will be tricky but we can do it!

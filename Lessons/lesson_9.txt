@@ -1,0 +1,37 @@
+Welcome back!
+We have seen both if statements and for loops and today we will use them together.
+This may sound hard but it’s actually quite easy!
+An example of how to do this is:
+
+for i in range(20):
+    if i % 2 == 0:
+        t.pencolor('red')
+    else:
+        t.pencolor('green')
+       
+    t.forward(i * 10)
+    t.right(144)
+
+This is the star example from before however, this time you can see it changes colour based on an if.
+The condition in the if checks if the number is odd or even, then changes the colour.
+
+You can also do the same with while loops:
+
+number = 0
+
+while number < 21:
+    if number % 2 == 0:
+        t.pencolor('red')
+    else:
+        t.pencolor('green')
+
+    t.back(number * 10)
+    t.left(144)
+    number = number + 1
+
+As you can see this is very similar to using a for loop, meaning if you can do one you can do the other!
+
+You can experiment with different if conditions, different results if condition is met and different ranges.
+  
+
+ 

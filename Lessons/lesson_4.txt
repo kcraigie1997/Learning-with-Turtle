@@ -1,0 +1,18 @@
+Welcome back!
+Since you can make me draw a shape, how about we have some fun!
+With these commands we can colour the shape and lines:
+t.fillcolor(“red”) – Sets the colour of the inside of the shape. You can put any colour in the brackets. Make sure this is before you draw.
+t.begin_fill() – Starts filling the shape. Make sure this is before you draw.
+t.end_fill() – Ends filling the shape. Make sure this is after the shape is drawn.
+
+If you run the code the shape will be red inside.
+
+I can also draw other shapes!
+
+if you type t.circle(30) then i will draw a circle with the radius of 30. 
+You can can change the number to make bigger or smaller circle.
+
+You can also type t.dot() , which will make a coloured circle appear where you put the command.
+You can put a size and a colour in the brackets like so t.dot(10, "red"). This can be used to make bigger dots.
+
+Play around with these commands and get used to using them!

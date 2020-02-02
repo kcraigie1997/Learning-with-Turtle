@@ -1,0 +1,7 @@
+Hey there! 
+Welcome to Learning with turtle, today we are going over the code you see in the middle box.
+If you look you can see:
+def run(res): - This is the class that the code is in, we will find out about classes later so for now just think of it as a container for the code.
+import turtle – This is makes you able to draw me.
+t = turtle.RawTurtle(res) – This line makes me appear on the screen.
+Now we should be able to click the save button followed by the run button and I should appear on screen! 

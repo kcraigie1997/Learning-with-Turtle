@@ -1,0 +1,22 @@
+Welcome back!
+
+This will be about the other kind of loop, the while loop.
+
+To use a while loop in python you do:
+
+number = 0
+
+while number < 21:
+     t.back(number * 10)
+     t.left(144)
+     number = number + 1
+
+This does the same as the example in as the for loop but this time uses a while loop.
+As you can see a while loop works by setting the output to true until a condition is met, 
+in this case number is less than 21.
+
+You may also notice t.done(), this just stops the turtle from drawing.
+If you leave this out when using while loops, I may start drawing random lines!
+
+In python you can also use the else clause from if statements with while loops.
+You use them the same way, so feel free to try them. 

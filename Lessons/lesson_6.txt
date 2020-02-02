@@ -1,0 +1,19 @@
+Welcome back!
+Today we are going to learn about for loops.
+A for loops is when code is ran for a certain number of times.
+To use a for loop you use the command: 
+
+for i in range(20):
+    t.forward(i * 10)
+    t.right(144)
+
+this example when ran draws a star, it does by drawing longer lines as i gets higher. 
+i is the current position in the range, meaning in this example the code will run 20 times before finishing
+
+If you change the number in range(20) the loop will run longer, creating bigger shapes!
+
+For loops are like if statements where you have to indent the code below.
+
+You can experiment by putting different ranges, movement options and colours. 
+This will change the result in a fun way!
+
